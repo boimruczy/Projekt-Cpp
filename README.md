@@ -3,7 +3,8 @@
 Space shooter inspirowany arkadowymi grami z lat 90.
 
 Gra bedzie stworzona w 3d z wykorzystaniem silnika unreal engine 4.
-Gameplay bedzie zawierac
+
+Gameplay bedzie zawierac.
    - 2 walki z przeciwnikami
    - przetrwanie przed asteroidami
    - walka z bosem
