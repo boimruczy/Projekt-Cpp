@@ -15,27 +15,27 @@ Gameplay bedzie zawierac.
 
 
 Harmonogram pracy
-   - Raport I
+   - Raport I     09.11
        - assety 3d
            - [ ] model gracza
            - [ ] modele przeciwnikow
            - [ ] asteroidy
            - [ ] animacje
  
-   - Raport II
+   - Raport II    23.11
        - gracz
            - [ ] movement
            - [ ] kamera
            - [ ] ataki/umiejetnosci
       
-   - Raport III
+   - Raport III   07.12
        - AI
            - [ ] movement
            - [ ] ataki/umiejetnosci
        - Level Design
 
      
-   - Raport IV
+   - Raport IV    21.12
        - Ui
            - [ ] zycie/ilosc amunicji
        - Menu
