@@ -24,9 +24,9 @@ Harmonogram pracy
  
    - Raport II    23.11
        - gracz
-           - [ ] movement
-           - [ ] kamera
-           - [ ] ataki/umiejetnosci
+           - [x] movement
+           - [x] kamera
+           - [x] ataki/umiejetnosci
       
    - Raport III   07.12
        - AI
