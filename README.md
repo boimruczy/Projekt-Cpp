@@ -17,7 +17,7 @@ Gameplay bedzie zawierac.
 Harmonogram pracy
    - Raport I     09.11
        - assety 3d
-           - [ ] model gracza
+           - [/] model gracza
            - [ ] modele przeciwnikow
            - [ ] asteroidy
            - [ ] animacje
